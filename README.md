@@ -1,7 +1,7 @@
-# Didda-Tech-Bot-v1
-
+<h1>Didula Wa Bot v1.0</h1>
 
 <a href="https://github.com/Its-meDidulaBot/Didula-Whatsapp-Bot-V1"><img src="https://i.ibb.co/JnwkfJP/logo-fc681ccd.png" alt="google-font" border="0"></a>
+
 
 ## Setup
 
@@ -15,19 +15,13 @@
 
   
 
-  [![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@Its-meDidulaBot/Didula-bot-Qr)
+  [![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@itsmebasil/Catbot-3)
 
 ## STEP 2 👇
 
 <div align="center">
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Its-meDidulaBot/Didda-Wa-Bot-V1.0)
-
-  ##Deploy Error You can Fix 
-
-  1 Fork
-
-  2 change github name & save
 
      
 
@@ -36,4 +30,3 @@
 # Official Group
 
 - [Join Oficial Whatsapp Group](https://chat.whatsapp.com/LWOdea4zvErAHkLNuAQkoP)
-
